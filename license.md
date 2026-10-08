@@ -135,4 +135,4 @@ El botón verde en la sección Inicio rápido.
 
 ---
 
-*noble-cipher-187 · Actualizado 2026-10-07 · Compartido bajo licencia MIT*
+*noble-cipher-187 · Actualizado 2026-10-08 · Compartido bajo licencia MIT*
